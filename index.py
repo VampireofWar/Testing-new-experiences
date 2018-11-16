@@ -12,25 +12,25 @@ while ans:
         sys.exit()
 
     elif answers == 1:
-        print "Zależy"
+        print ("Zależy")
 
     elif answers == 2:
-        print "Raczej na pewno tak"
+        print ("Raczej na pewno tak")
 
     elif answers == 3:
-        print "Prawdopodobnie"
+        print ("Prawdopodobnie")
 
     elif answers == 4:
-        print "Zapytaj później"
+        print ("Zapytaj później")
 
     elif answers == 5:
-        print "Nie wiem"
+        print ("Nie wiem")
 
     elif answers == 6:
-        print "Moje źródła mówią: nie"
+        print ("Moje źródła mówią: nie")
 
     elif answers == 7:
-        print "No chyba nie..."
+        print ("No chyba nie...")
 
     elif answers == 8:
-        print "Mocne i stanowcze: nope"
+        print ("Mocne i stanowcze: nope")
